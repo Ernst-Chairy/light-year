@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Light-year Space</title>
+  
+  <subtitle>All in Web3</subtitle>
+  <link href="https://www.light-year.space/atom.xml" rel="self"/>
+  
+  <link href="https://www.light-year.space/"/>
+  <updated>2025-03-17T03:18:52.957Z</updated>
+  <id>https://www.light-year.space/</id>
+  
+  <author>
+    <name>Ernst Chairy</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Task2</title>
+    <link href="https://www.light-year.space/2025/03/14/task2/"/>
+    <id>https://www.light-year.space/2025/03/14/task2/</id>
+    <published>2025-03-14T05:05:08.000Z</published>
+    <updated>2025-03-17T03:18:52.957Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Task-Catalog-4th-Weekend"><a href="#Task-Catalog-4th-Weekend" class="headerlink" title="Task Catalog (4th Weekend)"></a>Task Catalog (4th Weekend)</h3><ol><li><p><strong>Complete Week 4 assignment</strong></p><ul><li><p><em>Internet Basics  and Applications</em></p></li><li><p><em>Machine Learning with  R</em></p></li><li><p><em>Intermediate Microeconomics</em></p></li><li><p><em>Introduction to Actuarial Science</em></p></li><li><p><em>application Statistics</em></p></li></ul></li><li><p><strong>Review the Important Course</strong></p><ul><li><em>Probability Theory and Mathematical Statistics Chapter 1</em></li><li><em>Linear Algebra Chapter 1</em></li><li><em>Other Courses</em></li></ul></li><li><p><strong>Programming Learning</strong></p><ul><li><em>C&#x2F;C++</em></li><li><em>Python</em></li><li><em>Latex</em></li></ul></li></ol><p><strong>New Motto</strong>:</p><blockquote><p>Young souls, drifting with the winds of dreams.</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;Task-Catalog-4th-Weekend&quot;&gt;&lt;a href=&quot;#Task-Catalog-4th-Weekend&quot; class=&quot;headerlink&quot; title=&quot;Task Catalog (4th Weekend)&quot;&gt;&lt;/a&gt;Task Catalog</summary>
+      
+    
+    
+    
+    
+    <category term="task" scheme="https://www.light-year.space/tags/task/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>First Day</title>
+    <link href="https://www.light-year.space/2025/03/12/First-Day/"/>
+    <id>https://www.light-year.space/2025/03/12/First-Day/</id>
+    <published>2025-03-11T18:24:32.000Z</published>
+    <updated>2025-03-12T04:56:29.772Z</updated>
+    
+    <content type="html"><![CDATA[<p>Task:</p><ol><li>learn life-insurance actuarial science and finish homework</li><li>learn application statistics and finish homework</li><li>review blog building</li><li>learn basic markdown and latex</li><li>if there is more available time, learn social insurance.</li></ol><p>From today, I will improve myself and try to finish my everyday tasks as many as possible.</p><p><a href="https://light-year.space/">https://light-year.space</a> is my first domain, base on my interest in future, technology and space.</p><p>I’m hoping that one day I can travel as far away as the light.</p><p>acknowledgements:</p><p>my parents, my roommates, and my good friends.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Task:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;learn life-insurance actuarial science and finish homework&lt;/li&gt;
+&lt;li&gt;learn application statistics and finish homework&lt;/</summary>
+      
+    
+    
+    
+    
+    <category term="journal" scheme="https://www.light-year.space/tags/journal/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://www.light-year.space/2025/03/12/hello-world/"/>
+    <id>https://www.light-year.space/2025/03/12/hello-world/</id>
+    <published>2025-03-11T17:03:57.574Z</published>
+    <updated>2025-03-11T17:03:57.576Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
