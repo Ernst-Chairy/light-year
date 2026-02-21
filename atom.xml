@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Light-year Space</title>
   
-  <subtitle>All in Web3</subtitle>
+  <subtitle>All in Universe</subtitle>
   <link href="https://www.light-year.space/atom.xml" rel="self"/>
   
   <link href="https://www.light-year.space/"/>
@@ -10,7 +10,7 @@
   <id>https://www.light-year.space/</id>
   
   <author>
-    <name>Ernst Chairy</name>
+    <name>Isaac Cheney</name>
     
   </author>
   
